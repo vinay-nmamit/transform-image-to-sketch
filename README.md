@@ -1,6 +1,7 @@
-<b>Technique used: cv2</b>
-<b>Language used: Python</b>
-<b>Tool used: jupyter notebook</b>
+TECHNIQUE USED: CV2
+LANGUAGE USED: PYTHON
+TOOL USED: JUPYTER NOTEBOOK
+
 ````
 Original Image → Gray Scale → Invert → Blur → Invert → Pencil Sketch
 ````
