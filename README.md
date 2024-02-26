@@ -1,4 +1,4 @@
-## **Installation (VS Code)**
+## **Installation**
 
 1. Create a virtual environment in the terminal
     ````
