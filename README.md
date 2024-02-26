@@ -1,3 +1,10 @@
+## Technique used: cv2
+## Language used: Python
+## Tool used: jupyter notebook
+````
+Original Image → Gray Scale → Invert → Blur → Invert → Pencil Sketch
+````
+
 ## **Installation**
 
 1. Create a virtual environment in the terminal
